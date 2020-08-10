@@ -1,0 +1,14 @@
+$btnBackground: #0074D9;
+$btnHeight: 30px;
+$btnMinWidth: 80px;
+$btnBorderRadius: 5px;
+$btnColor: #ffffff;
+
+.cplace-btn {
+    background-color: $btnBackground;
+    height: $btnHeight;
+    min-width: $btnMinWidth;
+    border: none;
+    border-radius: $btnBorderRadius;
+    color: $btnColor;
+}
